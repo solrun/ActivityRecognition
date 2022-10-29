@@ -3,9 +3,12 @@
 Assignment for WASP Autonomous Systems course, Group WASP_AS_M1_Chalmers1.
 
 ## How to run:
-The code runs in a Jupyter notebook.
-### Prerequisites
-Python packages for Jupyter, pandas, matplotlib, numpy.
+The code runs in a Jupyter notebook, [signal_analysis.ipynb](https://github.com/solrun/ActivityRecognition/blob/main/signal_analysis.ipynb).
+
+To run activity recognition on a data log file, call the method `print_activity_prediction` with the file path as an argument. 
+
+### Requirements
+Python (>= 3.8) including packages for Jupyter, pandas, matplotlib, numpy, scipy.
 
 
 ## Data:
